@@ -1,21 +1,20 @@
-{ config, pkgs, ... }:
-{
-nixpkgs.config = {
-  firefox = {
-	enableGoogleTalkPlugin = true;
-	enableAdobeFlash = true;
+{ config, pkgs, ... }: {
+	nixpkgs.config = {
+		firefox = {
+			enableGoogleTalkPlugin = true;
+			enableAdobeFlash = true;
+		};
+		chromium = {
+			enablePepperFlash = true;
+			enablePepperPDF = true;
+		};
+		allowUnfree = true;
 	};
-  chromium = {
-	enablePepperFlash = true;
-	enablePepperPDF = true;
-	};
-  allowUnfree = true;
-};
 
-  environment.systemPackages = with pkgs; [
-	firefox chromium
-	arandr 
-	pasystray
-	libreoffice
+	environment.systemPackages = with pkgs; [
+		firefox chromium
+		arandr 
+		pasystray
+		libreoffice
 	];
 }
