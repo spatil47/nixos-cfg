@@ -18,4 +18,13 @@ environment.systemPackages = with pkgs; [
 
 services.xserver.windowManager.awesome.enable = true;
 
+fonts = {
+     enableFontDir = true;
+     enableGhostscriptFonts = true;
+     fonts = with pkgs; [
+       inconsolata  # monospaced
+       terminus_font
+     ];
+   };
+
 }
