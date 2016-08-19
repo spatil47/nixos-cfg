@@ -13,14 +13,18 @@
 		unison
 		tmux
 		xfce.terminal
+		lxappearance
 		git
 		pidgin
 		pasystray
+		xorg.xev
 		texlive.combined.scheme-basic
 		gimp
 		audacity
 		mpv
 		youtube-dl
+		thunderbird
+		deadbeef
 	];
 
 	services.xserver.windowManager.awesome.enable = true;
