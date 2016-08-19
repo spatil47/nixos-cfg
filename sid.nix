@@ -15,6 +15,7 @@
 		xfce.terminal
 		git
 		pidgin
+		pasystray
 		texlive.combined.scheme-basic
 		gimp
 		audacity

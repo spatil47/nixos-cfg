@@ -14,7 +14,6 @@
 	environment.systemPackages = with pkgs; [
 		firefox chromium
 		arandr 
-		pasystray
 		pavucontrol
 		libreoffice
 	];
