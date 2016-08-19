@@ -15,7 +15,11 @@
 		xfce.terminal
 		git
 		pidgin
-		texlive.combined.scheme-basic 
+		texlive.combined.scheme-basic
+		gimp
+		audacity
+		mpv
+		youtube-dl
 	];
 
 	services.xserver.windowManager.awesome.enable = true;
