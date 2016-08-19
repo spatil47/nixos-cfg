@@ -15,6 +15,7 @@
 		firefox chromium
 		arandr 
 		pasystray
+		pavucontrol
 		libreoffice
 	];
 }
