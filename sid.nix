@@ -25,6 +25,7 @@
 		youtube-dl
 		thunderbird
 		deadbeef
+		zotero
 	];
 
 	services.xserver.windowManager.awesome.enable = true;
