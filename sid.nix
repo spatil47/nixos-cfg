@@ -9,11 +9,11 @@
 		nix-repl
 		meld
 		mosh
-		vim emacs
+		vim
+		emacs
 		unison
 		tmux
 		xfce.terminal
-		lxappearance
 		git
 		pidgin
 		pasystray
@@ -29,6 +29,7 @@
 		zotero
 		zip
 		wine
+		fgallery
 	];
 
 	hardware.opengl.driSupport32Bit = true;
