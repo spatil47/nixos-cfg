@@ -20,13 +20,18 @@
 		xorg.xev
 		texlive.combined.scheme-basic
 		gimp
+		geeqie
 		audacity
 		mpv
 		youtube-dl
 		thunderbird
 		deadbeef
 		zotero
+		zip
+		wine
 	];
+
+	hardware.opengl.driSupport32Bit = true;
 
 	services.xserver.windowManager.awesome.enable = true;
 
