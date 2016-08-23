@@ -26,7 +26,6 @@
 		youtube-dl
 		thunderbird
 		deadbeef
-		zotero
 		zip unzip
 		wine
 		fgallery
