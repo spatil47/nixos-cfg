@@ -21,15 +21,19 @@
 		texlive.combined.scheme-basic
 		gimp
 		geeqie
+		jhead
 		audacity
-		mpv audacious
+		mpv
+		audacious
 		youtube-dl
 		thunderbird
-		zip unzip
+		zip unzip p7zip
 		wine
 		fgallery
 		filezilla
 	];
+
+	virtualisation.virtualbox.host.enable = true;
 
 	hardware.opengl.driSupport32Bit = true;
 
