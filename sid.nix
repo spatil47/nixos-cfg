@@ -25,7 +25,6 @@
 		mpv
 		youtube-dl
 		thunderbird
-		deadbeef
 		zip unzip
 		wine
 		fgallery
