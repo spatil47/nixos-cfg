@@ -11,6 +11,7 @@
 		mosh
 		vim
 		emacs
+		evince
 		unison
 		tmux
 		xfce.terminal
