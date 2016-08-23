@@ -6,7 +6,6 @@
 	};
 
 	environment.systemPackages = with pkgs; [
-		nix-repl
 		meld
 		mosh
 		vim
