@@ -27,9 +27,10 @@
 		thunderbird
 		deadbeef
 		zotero
-		zip
+		zip unzip
 		wine
 		fgallery
+		filezilla
 	];
 
 	hardware.opengl.driSupport32Bit = true;
