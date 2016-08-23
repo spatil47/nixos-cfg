@@ -22,7 +22,7 @@
 		gimp
 		geeqie
 		audacity
-		mpv
+		mpv audacious
 		youtube-dl
 		thunderbird
 		zip unzip
