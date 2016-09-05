@@ -16,6 +16,7 @@
 		tmux
 		xfce.terminal
 		git
+		gitg
 		pidgin
 		pasystray
 		xorg.xev
