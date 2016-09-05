@@ -6,6 +6,7 @@
 	};
 
 	environment.systemPackages = with pkgs; [
+		gparted
 		meld
 		mosh
 		vim
@@ -21,6 +22,7 @@
 		texlive.combined.scheme-basic
 		gimp
 		geeqie
+		hugin
 		jhead
 		audacity
 		mpv
