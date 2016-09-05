@@ -15,7 +15,6 @@
 		unison
 		tmux
 		xfce.terminal
-		git
 		gitg
 		pidgin
 		pasystray

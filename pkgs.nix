@@ -12,6 +12,7 @@
 	};
 
 	environment.systemPackages = with pkgs; [
+		git
 		firefox chromium
 		arandr 
 		pavucontrol
