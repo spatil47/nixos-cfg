@@ -33,6 +33,7 @@
 		wine
 		fgallery
 		filezilla
+		bleachbit
 	];
 
 	virtualisation.virtualbox.host.enable = true;
