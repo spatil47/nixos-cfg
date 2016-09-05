@@ -19,7 +19,7 @@
 		pidgin
 		pasystray
 		xorg.xev
-		texlive.combined.scheme-basic
+		texlive.combined.scheme-full
 		gimp
 		geeqie
 		hugin
