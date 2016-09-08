@@ -34,6 +34,8 @@
 		fgallery
 		filezilla
 		bleachbit
+		moreutils
+		eagle
 	];
 
 	virtualisation.virtualbox.host.enable = true;
