@@ -36,6 +36,8 @@
 		bleachbit
 		moreutils
 		eagle
+		system-config-printer
+		blink
 	];
 
 	virtualisation.virtualbox.host.enable = true;
