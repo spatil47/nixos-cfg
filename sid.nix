@@ -38,6 +38,8 @@
 		eagle
 		system-config-printer
 		blink
+		avrgcclibc
+		avrdude avrdudess
 	];
 
 	virtualisation.virtualbox.host.enable = true;
