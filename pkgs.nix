@@ -17,6 +17,7 @@
 		arandr 
 		pavucontrol
 		libreoffice
+		usbutils pciutils lsof
 	];
 
 	services.printing = {
