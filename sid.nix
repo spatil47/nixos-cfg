@@ -2,7 +2,7 @@
 
 	users.extraUsers.sid = {
 		isNormalUser = true;
-		extraGroups = [ "wheel" "vboxusers" "networkmanager" ];
+		extraGroups = [ "wheel" "vboxusers" "networkmanager" "dialout" ];
 	};
 
 	environment.systemPackages = with pkgs; [
