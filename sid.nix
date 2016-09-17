@@ -40,6 +40,7 @@
 		blink
 		avrgcclibc
 		avrdude avrdudess
+		calc
 	];
 
 	virtualisation.virtualbox.host.enable = true;
