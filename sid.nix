@@ -29,7 +29,7 @@
 		audacious
 		youtube-dl
 		thunderbird
-		zip unzip p7zip
+		zip unzip p7zip unrar
 		wine
 		fgallery
 		filezilla
