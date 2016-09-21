@@ -3,7 +3,10 @@
 	users.extraUsers.sid = {
 		isNormalUser = true;
 		extraGroups = [ "wheel" "vboxusers" "networkmanager" "dialout" ];
+		shell = "${pkgs.fish}/bin/fish";
 	};
+	
+	programs.fish.enable = true;
 
 	environment.systemPackages = with pkgs; [
 		gparted
