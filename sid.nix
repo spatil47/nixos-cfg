@@ -44,6 +44,7 @@
 		avrgcclibc
 		avrdude avrdudess
 		calc
+		gcc
 	];
 
 	virtualisation.virtualbox.host.enable = true;
