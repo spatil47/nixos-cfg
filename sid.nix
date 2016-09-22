@@ -44,7 +44,6 @@
 		avrgcclibc
 		avrdude avrdudess
 		calc
-		traceroute
 	];
 
 	virtualisation.virtualbox.host.enable = true;

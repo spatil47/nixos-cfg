@@ -18,6 +18,7 @@
 		pavucontrol
 		libreoffice
 		usbutils pciutils lsof
+		traceroute
 	];
 
 	services.printing = {
