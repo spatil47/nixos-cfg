@@ -25,4 +25,6 @@
 		enable = true;
 		drivers = [ pkgs.gutenprint ];
 	};
+
+	hardware.pulseaudio.enable = true;
 }
