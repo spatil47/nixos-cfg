@@ -45,6 +45,7 @@
 		avrdude avrdudess
 		calc
 		gcc
+		wireshark
 	];
 
 	virtualisation.virtualbox.host.enable = true;
