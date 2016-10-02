@@ -60,6 +60,7 @@
 		fonts = with pkgs; [
 			inconsolata
 			terminus_font
+			lato
 		];
 	};
 }
