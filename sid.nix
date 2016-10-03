@@ -22,7 +22,7 @@
 		pidgin
 		pasystray
 		xorg.xev
-		texlive.combined.scheme-full
+		texlive.combined.scheme-full biber
 		gimp
 		geeqie
 		hugin
