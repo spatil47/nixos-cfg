@@ -19,6 +19,7 @@
 		libreoffice
 		usbutils pciutils lsof
 		traceroute
+		acpi
 	];
 
 	services.printing = {
