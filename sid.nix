@@ -46,6 +46,7 @@
 		calc
 		gcc
 		wireshark
+		gnumake
 	];
 
 	virtualisation.virtualbox.host.enable = true;
