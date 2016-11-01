@@ -48,6 +48,7 @@
 		gdb
 		wireshark
 		gnumake
+		gensgs
 	];
 
 	virtualisation.virtualbox.host.enable = true;
