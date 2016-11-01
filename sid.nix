@@ -45,6 +45,7 @@
 		avrdude avrdudess
 		calc
 		gcc
+		gdb
 		wireshark
 		gnumake
 	];
