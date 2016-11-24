@@ -13,6 +13,7 @@
 		meld
 		mosh
 		vim
+		joe
 		emacs
 		evince
 		unison
