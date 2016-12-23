@@ -51,6 +51,7 @@
 		gnumake
 		gensgs
 		ganttproject-bin
+		androidsdk
 	];
 
 	virtualisation.virtualbox.host.enable = true;
