@@ -50,6 +50,7 @@
 		wireshark
 		gnumake
 		gensgs
+		ganttproject-bin
 	];
 
 	virtualisation.virtualbox.host.enable = true;
