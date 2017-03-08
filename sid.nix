@@ -25,6 +25,7 @@
 		xorg.xev
 		texlive.combined.scheme-full biber
 		gimp
+		inkscape
 		geeqie
 		hugin
 		jhead
@@ -48,13 +49,20 @@
 		gcc
 		gdb
 		wireshark
+		tcpreplay
 		gnumake
 		gensgs
 		ganttproject-bin
 		androidsdk
+		openjdk
+		icedtea8_web
+		remmina
+		wirelesstools
 	];
-
+	
+	virtualisation.docker.enable = true;
 	virtualisation.virtualbox.host.enable = true;
+	nixpkgs.config.virtualbox.enableExtensionPack = true;
 
 	hardware.opengl.driSupport32Bit = true;
 
