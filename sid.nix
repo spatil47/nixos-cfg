@@ -49,7 +49,6 @@
 		gcc
 		gdb
 		wireshark
-		tcpreplay
 		gnumake
 		gensgs
 		ganttproject-bin
@@ -58,6 +57,7 @@
 		icedtea8_web
 		remmina
 		wirelesstools
+		arduino
 	];
 	
 	virtualisation.docker.enable = true;
