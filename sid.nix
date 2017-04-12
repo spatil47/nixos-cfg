@@ -58,6 +58,7 @@
 		remmina
 		wirelesstools
 		arduino
+		fritzing
 	];
 	
 	virtualisation.docker.enable = true;
