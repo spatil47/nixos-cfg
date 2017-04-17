@@ -59,6 +59,8 @@
 		wirelesstools
 		arduino
 		fritzing
+		kicad
+		python
 	];
 	
 	virtualisation.docker.enable = true;
