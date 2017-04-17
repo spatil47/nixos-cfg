@@ -61,6 +61,7 @@
 		fritzing
 		kicad
 		python
+		putty
 	];
 	
 	virtualisation.docker.enable = true;
