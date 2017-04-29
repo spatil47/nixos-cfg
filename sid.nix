@@ -62,6 +62,7 @@
 		kicad
 		python
 		putty
+		gnuplot
 	];
 	
 	virtualisation.docker.enable = true;
