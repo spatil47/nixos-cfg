@@ -23,7 +23,7 @@
 		pidgin
 		pasystray
 		xorg.xev
-		texlive.combined.scheme-full biber
+		texlive.combined.scheme-full biber ghostscript
 		gimp
 		inkscape
 		geeqie
