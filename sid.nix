@@ -40,24 +40,22 @@
 		filezilla
 		bleachbit
 		moreutils
-		eagle
 		system-config-printer
 		blink
 		avrgcclibc
 		avrdude avrdudess
 		calc
-		gcc
-		gdb
-		wireshark
+		gcc gdb
 		gnumake
+		wireshark
 		gensgs
 		ganttproject-bin
 		androidsdk
-		openjdk
-		icedtea8_web
+		openjdk	icedtea8_web
 		remmina
 		wirelesstools
 		arduino
+		eagle
 		fritzing
 		kicad
 		python
