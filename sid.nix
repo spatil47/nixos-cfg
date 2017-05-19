@@ -63,6 +63,7 @@
 		python
 		putty
 		gnuplot
+		chirp
 	];
 	
 	virtualisation.docker.enable = true;
