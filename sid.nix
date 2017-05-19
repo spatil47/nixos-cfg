@@ -50,7 +50,6 @@
 		wireshark
 		gensgs
 		ganttproject-bin
-		androidsdk
 		openjdk	icedtea8_web
 		remmina
 		wirelesstools
