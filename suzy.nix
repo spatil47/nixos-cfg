@@ -7,6 +7,6 @@
 
 	environment.systemPackages = with pkgs; [
 		bomi
-		qalculator
+		qalculate-gtk
 	];
 }
