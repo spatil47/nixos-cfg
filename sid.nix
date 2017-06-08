@@ -57,7 +57,8 @@
 		eagle
 		fritzing
 		kicad
-		python
+		python2Full
+		(python35.withPackages(ps: with ps; [ numpy jupyter matplotlib pandas ]))
 		putty
 		gnuplot
 		chirp
