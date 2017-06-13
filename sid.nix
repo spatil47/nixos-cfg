@@ -58,7 +58,7 @@
 		fritzing
 		kicad
 		python2Full
-		(python35.withPackages(ps: with ps; [ numpy jupyter matplotlib pandas ]))
+		(python35.withPackages(ps: with ps; [ numpy jupyter matplotlib pandas pyserial wrapt]))
 		putty
 		gnuplot
 		chirp
