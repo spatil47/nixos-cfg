@@ -62,6 +62,7 @@
 		putty
 		gnuplot
 		chirp
+		mosquitto
 	];
 	
 	virtualisation.docker.enable = true;
