@@ -63,6 +63,7 @@
 		gnuplot
 		chirp
 		mosquitto
+		mosh
 	];
 	
 	virtualisation.docker.enable = true;
