@@ -2,7 +2,7 @@
 
 	users.extraUsers.sid = {
 		isNormalUser = true;
-		extraGroups = [ "wheel" "vboxusers" "networkmanager" "dialout" ];
+		extraGroups = [ "wheel" "vboxusers" "networkmanager" "dialout" "docker" ];
 		shell = "${pkgs.fish}/bin/fish";
 	};
 	
