@@ -64,6 +64,7 @@
 		chirp
 		mosquitto
 		mosh
+		nmap-graphical
 	];
 	
 	virtualisation.docker.enable = true;
