@@ -65,6 +65,7 @@
 		mosquitto
 		mosh
 		nmap-graphical
+		qgis
 	];
 	
 	virtualisation.docker.enable = true;
