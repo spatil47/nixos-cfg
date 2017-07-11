@@ -31,7 +31,6 @@
 		jhead
 		audacity
 		mpv
-		audacious
 		youtube-dl
 		thunderbird
 		zip unzip p7zip unrar
@@ -39,8 +38,6 @@
 		fgallery
 		filezilla
 		bleachbit
-		moreutils
-		system-config-printer
 		blink
 		avrgcclibc
 		avrdude avrdudess
@@ -49,9 +46,7 @@
 		gnumake
 		wireshark
 		gensgs
-		ganttproject-bin
 		openjdk	icedtea8_web
-		remmina
 		wirelesstools
 		arduino
 		eagle
