@@ -26,6 +26,14 @@
 		enable = true;
 		drivers = [ pkgs.gutenprint ];
 	};
+	
+	services.avahi = {
+		enable = true;
+		ipv6 = true;
+		interfaces = [ "enp7s0" "wlp6s0" ];
+		nssmdns = true;
+		publish.enable = true;
+	};
 
 	hardware.pulseaudio.enable = true;
 }
