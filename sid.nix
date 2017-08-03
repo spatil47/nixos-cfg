@@ -61,6 +61,7 @@
 		mosh
 		nmap-graphical
 		qgis
+		wget
 	];
 	
 	virtualisation.docker.enable = true;
