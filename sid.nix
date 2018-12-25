@@ -22,12 +22,8 @@
 		gitg
 		pidgin
 		pasystray
-		xorg.xev
 		texlive.combined.scheme-full biber ghostscript
-		gimp
-		inkscape
 		geeqie
-		hugin
 		jhead
 		audacity
 		mpv
@@ -38,29 +34,17 @@
 		fgallery
 		filezilla
 		bleachbit
-		blink
-		avrgcclibc
-		avrdude avrdudess
 		calc
-		gcc gdb
-		gnumake
 		wireshark
 		gensgs
 		openjdk	icedtea8_web
 		wirelesstools
-		arduino
-		eagle
-		fritzing
-		kicad
 		python2Full
 		(python35.withPackages(ps: with ps; [ numpy jupyter matplotlib pandas pyserial wrapt]))
 		putty
 		gnuplot
-		chirp
-		mosquitto
 		mosh
 		nmap-graphical
-		qgis
 		wget
 	];
 	
